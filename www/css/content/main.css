@@ -1,0 +1,78 @@
+.topic #css.icon{
+	background-image: url(../../images/content/css.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 56px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #html5.icon{
+	background-image: url(../../images/content/html.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 56px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #php.icon{
+	background-image: url(../../images/content/php.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 74px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #js.icon{
+	background-image: url(../../images/content/js.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 56px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #WP.icon{
+	background-image: url(../../images/content/wordpress-litle.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 84px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #jq.icon{
+	background-image: url(../../images/content/jq-litle.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 84px;
+	height: 80px;
+	display: inline-block;
+}
+.topic #jqUI.icon{
+	background-image: url(../../images/content/jqUI.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 64px;
+	height: 80px;
+	display: inline-block;
+}
+.topic .icon{
+	margin-right:15px;
+}
+.topic>.article .title{
+	text-align:center;
+}
+.topic>.article{
+	display: inline-block;
+	margin-left:214px;
+}
+.topic>.article:nth-of-type(3) {
+	margin-left: 323px;
+}
+.topic>#completed_work.article {
+	display:block;
+	margin-left:50px;
+}
+#completed_work.article img{
+	width:445px;
+	max-height: 700px;
+}
+#list_works{width:480px; margin-left: 205px;}
